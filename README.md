@@ -6,11 +6,11 @@
 
 | Day | Problem | Status | Notes |
 |-----|--------|--------|------|
-| Day 1 | Two Sum | ⬜ | |
-| Day 2 | Contains Duplicate | ⬜ | |
-| Day 3 | Valid Anagram | ⬜ | |
-| Day 4 | Two Sum (Repeat) | ⬜ | |
-| Day 5 | Valid Palindrome | ⬜ | |
+| Day 1 | Two Sum | ✅  | |
+| Day 2 | Contains Duplicate | ✅  | |
+| Day 3 | Valid Anagram | ✅  | |
+| Day 4 | Two Sum (Repeat) | ✅  | |
+| Day 5 | Valid Palindrome | ✅  | |
 | Day 6 | Container With Most Water | ⬜ | |
 | Day 7 | Review | ⬜ | |
 
