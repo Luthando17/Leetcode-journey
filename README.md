@@ -12,7 +12,7 @@
 | Day 4 | Two Sum (Repeat) | ✅  | |
 | Day 5 | Valid Palindrome | ✅  | |
 | Day 6 | Container With Most Water | ✅ | |
-| Day 7 | Review | ⬜ | |
+| Day 7 | Review | ✅ | |
 
 ---
 
