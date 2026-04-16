@@ -21,7 +21,7 @@
 | Day | Problem | Status | Notes |
 |-----|--------|--------|------|
 | Day 8 | Maximum Subarray | ✅ | |
-| Day 9 | Longest Substring Without Repeating Characters | ⬜ | |
+| Day 9 | Longest Substring Without Repeating Characters | ✅ | |
 | Day 10 | Valid Parentheses | ⬜ | |
 | Day 11 | Min Stack | ⬜ | |
 | Day 12 | Binary Search | ⬜ | |
