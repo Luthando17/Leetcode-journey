@@ -22,8 +22,8 @@
 |-----|--------|--------|------|
 | Day 8 | Maximum Subarray | ✅ | |
 | Day 9 | Longest Substring Without Repeating Characters | ✅ | |
-| Day 10 | Valid Parentheses | ⬜ | |
-| Day 11 | Min Stack | ⬜ | |
+| Day 10 | Valid Parentheses |✅ | |
+| Day 11 | Min Stack |✅ | |
 | Day 12 | Binary Search | ⬜ | |
 | Day 13 | Search Insert Position | ⬜ | |
 | Day 14 | Review + Mock Interview | ⬜ | |
