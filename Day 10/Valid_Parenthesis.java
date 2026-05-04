@@ -34,7 +34,7 @@ of the most inserted recent element.
 The STACK uses a formula LIFO (last, in, first, out)
 
  and STACK works as a temp storage of given elements to keep
- track
+ track.
 
  * .push();
    .peek();
